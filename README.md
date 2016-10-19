@@ -1,7 +1,7 @@
 # transcricao-podcast
 Repositório para armazenar as transcrições dos podcasts da Lambda3.
 
-Link o blog dos podcasts: http://blog.lambda3.com.br/category/podcast/
+Link do blog da Lambda3 com os podcasts: http://blog.lambda3.com.br/category/podcast/
 
 Feed do podcast: http://blog.lambda3.com.br/feed/podcast/ 
 
