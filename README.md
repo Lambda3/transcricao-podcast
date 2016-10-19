@@ -3,8 +3,8 @@ Repositório para armazenar as transcrições dos podcasts da Lambda3.
 
 Link para o feed do SoundCloud dos podcasts: http://blog.lambda3.com.br/category/podcast/
 
-Feed do podcast: blog.lambda3.com.br/feed/podcast
+Feed do podcast: http://blog.lambda3.com.br/feed/podcast/ 
 
-Feed do podcast somente com episódios técnicos: blog.lambda3.com.br/feed/podcast-tecnico
+Feed do podcast somente com episódios técnicos: http://blog.lambda3.com.br/feed/podcast-tecnico/
 
-Feed do podcast somente com episódios não técnicos: blog.lambda3.com.br/feed/podcast-nao-tecnico
+Feed do podcast somente com episódios não técnicos: http://blog.lambda3.com.br/feed/podcast-nao-tecnico/
